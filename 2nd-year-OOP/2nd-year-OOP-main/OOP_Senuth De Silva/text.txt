@@ -1,0 +1,40 @@
+Electronics
+Product ID: 1
+Product Name: MOMO
+Available Items: 2
+Price: 200.0
+Brand: GOOG
+Warranty: 7
+-------------------------------------
+Clothing
+Product ID: 1
+Product Name: LIL
+Available Items: 4
+Price: 500.0
+Size: s
+Colour: GREEN
+-------------------------------------
+Electronics
+Product ID: 2
+Product Name: op
+Available Items: 5
+Price: 500.0
+Brand: koko
+Warranty: 7
+-------------------------------------
+Electronics
+Product ID: 0O
+Product Name: 50
+Available Items: 20
+Price: 200.0
+Brand: lolo
+Warranty: 5
+-------------------------------------
+Clothing
+Product ID: 50
+Product Name: po
+Available Items: 90
+Price: 200.0
+Size: s
+Colour: opp
+-------------------------------------
